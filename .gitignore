@@ -1,0 +1,9 @@
+*
+!*/
+
+# Git
+!.gitignore
+
+# 
+!.local/share/konsole/*.profile
+!.local/share/konsole/*.colorscheme
