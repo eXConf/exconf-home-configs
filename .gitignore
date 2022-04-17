@@ -1,6 +1,13 @@
 *
 !*/
 
+.cache
+.nvm/
+.pub-cache/
+.vscode/
+Github/
+snap/
+
 # Git
 !.gitignore
 
