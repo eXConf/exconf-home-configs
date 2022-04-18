@@ -11,6 +11,9 @@ snap/
 # Git
 !.gitignore
 
-# 
+# Konsole
 !.local/share/konsole/*.profile
 !.local/share/konsole/*.colorscheme
+
+# fish
+!.config/fish/**
